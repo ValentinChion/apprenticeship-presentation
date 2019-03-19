@@ -18,10 +18,11 @@ import {
 
 // Import theme
 import createTheme from 'spectacle/lib/themes/default';
+import PresentationSlide from '../Slides/PresentationSlide/PresentationSlide';
+import KeyFigures from '../Slides/KeyFiguresSopraSteria/KeyFigures';
 
 const images = {
   formidagon: require('../assets/formidable-logo.svg'),
-  goodWork: require('../assets/good-work.gif')
 };
 
 // Require CSS
@@ -48,14 +49,8 @@ export default class Presentation extends React.Component {
         transitionDuration={500}
         theme={theme}
       >
-        <Slide transition={['zoom']} bgColor="primary">
-          <Heading size={1} fit caps lineHeight={1} textColor="secondary">
-            Spectacle Boilerplate
-          </Heading>
-          <Text margin="10px 0 0" textColor="tertiary" fit bold>
-            open the presentation/index.js file to get started
-          </Text>
-        </Slide>
+        <PresentationSlide/>
+        <KeyFigures/>
         <Slide bgColor="secondary">
           <Image src={images.formidagon} width={800} />
         </Slide>
@@ -100,7 +95,6 @@ export default class Presentation extends React.Component {
           </BlockQuote>
         </Slide>
         <Slide>
-          <Image src={images.goodWork} width={500} />
           <Notes>gifs work too</Notes>
         </Slide>
       </Deck>

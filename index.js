@@ -5,6 +5,7 @@ import Redbox from 'redbox-react';
 import { AppContainer } from 'react-hot-loader';
 
 import Presentation from './presentation';
+import PresentationCSS from './presentation/Presentation.css';
 
 const CustomErrorReporter = ({ error }) => <Redbox error={error} />;
 
