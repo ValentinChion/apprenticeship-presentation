@@ -26,6 +26,8 @@ import AuchanDpc from '../Slides/AuchanDPC/AuchanDPC';
 import Objectives from '../Slides/Objectives/Objectives';
 import Talend from '../Slides/Talend/Talend';
 import SopraTeam from '../Slides/SopraTeam/SopraTeam';
+import Process from '../Slides/Process/Process';
+import ETL from '../Slides/ETL/ETL';
 
 const images = {
   formidagon: require('../assets/formidable-logo.svg'),
@@ -64,6 +66,8 @@ export default class Presentation extends React.Component {
         <AuchanDpc/>
         <Objectives/>
         <Talend/>
+        <ETL/>
+        <Process/>
         <Slide bgColor="secondary">
           <Image src={images.formidagon} width={800} />
         </Slide>
