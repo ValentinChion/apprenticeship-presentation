@@ -3,3 +3,9 @@
     top: -80px;
     left: 30px;
 }
+
+.leftCornerAuchan{
+    position: absolute;
+    left: 30px;
+    top: 20px;
+}

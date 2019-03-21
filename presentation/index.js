@@ -19,7 +19,12 @@ import {
 // Import theme
 import createTheme from 'spectacle/lib/themes/default';
 import PresentationSlide from '../Slides/PresentationSlide/PresentationSlide';
-import KeyFigures from '../Slides/KeyFiguresSopraSteria/KeyFigures';
+import KeyFiguresSopraSteria from '../Slides/KeyFiguresSopraSteria/KeyFigures';
+import KeyFiguresAuchan from '../Slides/KeyFiguresAuchan/KeyFigures';
+import ActivitiesSopra from '../Slides/ActivitiesSopra/ActivitiesSopra';
+import AuchanDpc from '../Slides/AuchanDPC/AuchanDPC';
+import Objectives from '../Slides/Objectives/Objectives';
+import Talend from '../Slides/Talend/Talend';
 
 const images = {
   formidagon: require('../assets/formidable-logo.svg'),
@@ -50,7 +55,12 @@ export default class Presentation extends React.Component {
         theme={theme}
       >
         <PresentationSlide/>
-        <KeyFigures/>
+        <KeyFiguresSopraSteria/>
+        <ActivitiesSopra/>
+        <KeyFiguresAuchan/>
+        <AuchanDpc/>
+        <Objectives/>
+        <Talend/>
         <Slide bgColor="secondary">
           <Image src={images.formidagon} width={800} />
         </Slide>
