@@ -1,13 +1,12 @@
 import React, {Component} from 'react'
-import { Deck, Heading, Image, List, ListItem, Slide } from 'spectacle';
+import { Deck, Heading, Image, List, ListItem, Slide, Text } from 'spectacle';
 import { images } from '../../assets/imageImport';
 
 export default class ActivitiesSopra extends Component {
   render() {
     return (
-      <Slide transition={['fade']} textColor="secundary">
-        <Image src={images.sopraSteriaLogo} className="leftCorner"/>
-        <Heading size={6} textColor="tertiary" caps>
+      <Slide transition={['fade']} textColor="secundary" align={"center flex-start"}>
+        <Heading size={4} textColor="tertiary" lineHeight={2}>
           Activités de l'agence
         </Heading>
         <List>
@@ -16,6 +15,7 @@ export default class ActivitiesSopra extends Component {
           <ListItem bulletStyle="star">Distribution</ListItem>
           <ListItem bulletStyle="star">Retail</ListItem>
         </List>
+        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
       </Slide>
     );
   }

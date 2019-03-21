@@ -9,3 +9,9 @@
     left: 30px;
     top: 20px;
 }
+
+.positionSlideIndex{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+}

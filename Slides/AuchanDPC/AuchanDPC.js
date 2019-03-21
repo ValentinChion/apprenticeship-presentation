@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import { Heading, Image, List, ListItem, Slide } from 'spectacle';
+import { Heading, Image, List, ListItem, Slide, Text } from 'spectacle';
 import { images } from '../../assets/imageImport';
 
 export default class AuchanDpc extends Component {
@@ -16,6 +16,7 @@ export default class AuchanDpc extends Component {
           <ListItem bulletStyle="star">Distribution</ListItem>
           <ListItem bulletStyle="star">Retail</ListItem>
         </List>
+        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
       </Slide>
     );
   }

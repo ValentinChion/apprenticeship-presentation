@@ -11,6 +11,7 @@ export default class PresentationSlide extends Component {
         <Text margin="10px 0 0" textColor="tertiary" fit bold>
           open the presentation/index.js file to get started
         </Text>
+        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
       </Slide>
     );
   }

@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { Heading, Image, Slide } from 'spectacle';
+import { Heading, Image, Slide, Text } from 'spectacle';
 import { images } from '../../assets/imageImport';
 
 export default class KeyFigures extends Component {
@@ -16,6 +16,7 @@ export default class KeyFigures extends Component {
         <Heading size={3} textColor="quaternary">
           17 Pays
         </Heading>
+        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
       </Slide>
     );
   }
