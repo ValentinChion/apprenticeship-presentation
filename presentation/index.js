@@ -56,14 +56,14 @@ export default class Presentation extends React.Component {
         transitionDuration={500}
         theme={theme}
         progress={"pacman"}>
-        <PresentationSlide slideNbr={1}/>
-        <ActivitiesSopra  slideNbr={2}/>
-        <KeyFiguresSopraSteria  slideNbr={3}/>
-        <SopraTeam  slideNbr={4}/>
-        <KeyFiguresAuchan  slideNbr={5}/>
-        <AuchanDpc  slideNbr={6}/>
-        <Objectives  slideNbr={7}/>
-        <Talend  slideNbr={8}/>
+        <PresentationSlide/>
+        <ActivitiesSopra/>
+        <KeyFiguresSopraSteria/>
+        <SopraTeam/>
+        <KeyFiguresAuchan/>
+        <AuchanDpc/>
+        <Objectives/>
+        <Talend/>
         <Slide bgColor="secondary">
           <Image src={images.formidagon} width={800} />
         </Slide>

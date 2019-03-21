@@ -17,7 +17,7 @@ export default class SopraTeam extends Component {
         <Text textAlign={"left"}>
           Une équipe jeune et motivée
         </Text>
-        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
+        <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
       )
     }

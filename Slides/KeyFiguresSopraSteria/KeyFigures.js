@@ -16,7 +16,7 @@ export default class KeyFigures extends Component {
         <Heading size={3} textColor="quaternary">
           25 Pays
         </Heading>
-        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
+        <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
     );
   }

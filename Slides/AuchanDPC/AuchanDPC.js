@@ -16,7 +16,7 @@ export default class AuchanDpc extends Component {
           <ListItem bulletStyle="star">Distribution</ListItem>
           <ListItem bulletStyle="star">Retail</ListItem>
         </List>
-        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
+        <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
     );
   }

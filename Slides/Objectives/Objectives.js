@@ -16,7 +16,7 @@ export default class Objectives extends Component {
         <Text fit={true}>
           Pour cela, on utilise une suite d'outils créée par Talend.
         </Text>
-        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
+        <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
     );
   }

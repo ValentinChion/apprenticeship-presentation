@@ -12,7 +12,7 @@ export default class Talend extends Component {
           <ListItem>Talend-Studio: ETL</ListItem>
           <ListItem>Talend MDM: BDD avec des webservices</ListItem>
         </List>
-        <Text className="positionSlideIndex">{this.props.slideNbr}</Text>
+        <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
     );
   }
