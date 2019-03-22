@@ -14,7 +14,6 @@
         ["@babel/plugin-transform-modules-commonjs"],
         "transform-react-remove-prop-types",
         "transform-custom-element-classes",
-        "transform-es2015-classes",
         "@babel/plugin-proposal-class-properties",
         "@babel/plugin-transform-react-constant-elements",
         "@babel/plugin-transform-react-inline-elements",
