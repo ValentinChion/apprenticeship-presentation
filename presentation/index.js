@@ -28,6 +28,8 @@ import Talend from '../Slides/Talend/Talend';
 import SopraTeam from '../Slides/SopraTeam/SopraTeam';
 import Process from '../Slides/Process/Process';
 import ETL from '../Slides/ETL/ETL';
+import IDETalend from '../Slides/IDETalend/IDETalend';
+import MDM from '../Slides/MDM/MDM';
 
 const images = {
   formidagon: require('../assets/formidable-logo.svg'),
@@ -59,27 +61,17 @@ export default class Presentation extends React.Component {
         theme={theme}
         progress={"pacman"}>
         <PresentationSlide/>
-        <ActivitiesSopra/>
         <KeyFiguresSopraSteria/>
+        <ActivitiesSopra/>
         <SopraTeam/>
         <KeyFiguresAuchan/>
-        <AuchanDpc/>
         <Objectives/>
         <Talend/>
         <ETL/>
+        <MDM/>
+        <IDETalend/>
         <Process/>
-        <Slide bgColor="secondary">
-          <Image src={images.formidagon} width={800} />
-        </Slide>
-        <Slide transition={['fade']} bgColor="secondary" textColor="primary">
-          <BlockQuote>
-            <Quote>Example Quote</Quote>
-            <Cite margin="10px 0 0 30px">Author</Cite>
-          </BlockQuote>
-        </Slide>
-        <Slide>
-          <Notes>gifs work too</Notes>
-        </Slide>
+        
       </Deck>
     );
   }
