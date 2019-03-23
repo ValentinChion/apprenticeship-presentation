@@ -10,10 +10,10 @@ export default class SopraTeam extends Component {
           Notre équipe
         </Heading>
         <Text textAlign={"left"} >
-          Composé de 15 membres
+          Composée de 15 membres
         </Text>
         <Text textAlign={"left"}>
-          Venant de différents domaines professionnel
+          Venant de différents domaines professionnels
         </Text>
         <Text textAlign={"left"}>
           Une équipe jeune et motivée
