@@ -1,16 +1,17 @@
 import React, {Component} from 'react';
 import { Deck, Heading, Slide, Text } from 'spectacle';
+import { images } from '../../assets/imageImport';
 
 export default class PresentationSlide extends Component {
   render() {
     return (
-      <Slide bgColor="primary">
-        <Heading size={1} fit caps lineHeight={1} textColor="secondary">
-          Spectacle Boilerplate
-        </Heading>
-        <Text margin="10px 0 0" textColor="tertiary" fit bold>
-          open the presentation/index.js file to get started
-        </Text>
+      <Slide align={"left"} bgImage={images.ourTeam}>
+          <Heading size={1} fit caps textColor="primary" >
+            Alternance de Mi-Parcours
+          </Heading>
+          <Text margin="10px 0 0" textColor="primary" fit bold>
+            open the presentation/index.js file to get started
+          </Text>
         <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
     );
