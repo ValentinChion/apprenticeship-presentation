@@ -3,5 +3,13 @@ export const images = {
   auchanLogo: require('./logo-auchan.png'),
   talendIDE: require('./IDETalend.png'),
   etlDiagram: require('./etlDiagram.png'),
-  mdmDiagram: require('./mdmDiagram.png')
+  mdmDiagram: require('./mdmDiagram.png'),
+  marquesAuchan: require('./marquesAuchan.png')
 };
+
+export const gifs = {
+  process: require('./process.gif'),
+  mission: require('./mission.gif'),
+  team: require('./team.gif'),
+  whatsNext: require('./whatsNext.gif')
+}
