@@ -5,7 +5,7 @@ import { images } from '../../assets/imageImport';
 export default class ActivitiesSopra extends Component {
   render() {
     return (
-      <Slide transition={['fade']} textColor="secundary" align={"center flex-start"}>
+      <Slide textColor="secundary" align={"center flex-start"}>
         <Heading size={4} textColor="tertiary" lineHeight={2}>
           Activités de l'agence
         </Heading>

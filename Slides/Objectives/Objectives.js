@@ -1,11 +1,12 @@
 import React, {Component} from 'react';
-import { Heading, Text, List, ListItem, Slide } from 'spectacle';
+import { Heading, Text, List, ListItem, Slide, Image } from 'spectacle';
+import { gifs } from '../../assets/imageImport';
 
 
 export default class Objectives extends Component {
   render() {
     return (
-      <Slide transition={['fade']} textColor="secundary" align={"center flex-start"}>
+      <Slide textColor="secundary" align={"center flex-start"}>
         <Heading size={4} textColor="tertiary" lineHeight={2}>
           Nos missions
         </Heading>
@@ -16,6 +17,7 @@ export default class Objectives extends Component {
         <Text fit={true}>
           Pour cela, on utilise une suite d'outils créée par Talend.
         </Text>
+        <Image src={gifs.mission} className={'rightBottomCorner'} height={'30%'}/>
         <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
     );

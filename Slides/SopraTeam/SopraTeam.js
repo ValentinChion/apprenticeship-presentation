@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-import { Slide, Heading, Text, List, ListItem } from 'spectacle';
+import { Slide, Heading, Text, List, ListItem, Image } from 'spectacle';
+import { gifs } from '../../assets/imageImport';
 
 export default class SopraTeam extends Component {
   render() {
@@ -17,6 +18,7 @@ export default class SopraTeam extends Component {
         <Text textAlign={"left"}>
           Une équipe jeune et motivée
         </Text>
+        <Image src={gifs.team} className={'bottomCenter'} height={'30%'}/>
         <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>
       </Slide>
       )
