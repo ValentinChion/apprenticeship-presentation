@@ -21,3 +21,15 @@
     bottom: 20%;
     left: 23%;
 }
+
+.rightBottomCorner {
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+}
+
+.bottomCenter {
+    position: absolute;
+    bottom: 15%;
+    left: 40%;
+}

@@ -30,6 +30,9 @@ import Process from '../Slides/Process/Process';
 import ETL from '../Slides/ETL/ETL';
 import IDETalend from '../Slides/IDETalend/IDETalend';
 import MDM from '../Slides/MDM/MDM';
+import ProjectManagement from '../Slides/ProjectManagement/ProjectManagement';
+import Summary from '../Slides/Summary/Summary';
+import WhatsNext from '../Slides/WhatsNext/WhatsNext';
 
 const images = {
   formidagon: require('../assets/formidable-logo.svg'),
@@ -61,17 +64,20 @@ export default class Presentation extends React.Component {
         theme={theme}
         progress={"pacman"}>
         <PresentationSlide/>
+        <Summary/>
         <KeyFiguresSopraSteria/>
         <ActivitiesSopra/>
         <SopraTeam/>
         <KeyFiguresAuchan/>
+        <AuchanDpc/>
         <Objectives/>
         <Talend/>
         <ETL/>
         <MDM/>
         <IDETalend/>
         <Process/>
-        
+        <ProjectManagement/>
+        <WhatsNext/>
       </Deck>
     );
   }
