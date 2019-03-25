@@ -31,10 +31,14 @@
 .bottomCenter {
     position: absolute;
     bottom: 15%;
-    left: 40%;
+    left: 37%;
 }
 
 .rehauss {
     position: relative;
     bottom: 5%;
+}
+
+.insideText{
+    font-size: 20%;
 }
