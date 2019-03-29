@@ -7,12 +7,13 @@ export default class ActivitiesSopra extends Component {
     return (
       <Slide textColor="secundary" align={"center flex-start"}>
         <Heading size={4} textColor="tertiary" lineHeight={2}>
-          Activités de l'agence
+          Activités de la division Nord
         </Heading>
         <List>
           <ListItem bulletStyle="star">Bancaire</ListItem>
           <ListItem bulletStyle="star">Transport</ListItem>
-          <ListItem bulletStyle="star">Distribution</ListItem>
+          <ListItem bulletStyle="star">Assurance</ListItem>
+          <ListItem bulletStyle="star">Industrie</ListItem>
           <ListItem bulletStyle="star">Retail</ListItem>
         </List>
         <Text className="positionSlideIndex">{this.props.slideIndex + 1}</Text>

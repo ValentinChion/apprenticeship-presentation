@@ -6,7 +6,7 @@ export default class Process extends Component {
   render() {
     return (
       <Slide align={"center flex-start"}>
-        <Heading size={4} textColor="tertiary" lineHeight={2}>Process interne</Heading>
+        <Heading size={4} textColor="tertiary" lineHeight={2}>Process & charges</Heading>
           <Text textAlign='left'>Spécifications du besoin</Text>
           <Text textAlign='left'>Développement</Text>
           <Text textAlign='left'>Qualification interne croisée</Text>

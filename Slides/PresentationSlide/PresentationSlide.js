@@ -7,7 +7,7 @@ export default class PresentationSlide extends Component {
     return (
       <Slide align={"left"} bgImage={images.ourTeam}>
           <Heading size={1} fit caps textColor="primary" >
-            Alternance de Mi-Parcours
+            Soutenance de mi-parcours
           </Heading>
           <Text margin="10px 0 0" textColor="primary" fit bold>
             open the presentation/index.js file to get started
