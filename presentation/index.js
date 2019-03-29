@@ -35,6 +35,7 @@ import Summary from '../Slides/Summary/Summary';
 import WhatsNext from '../Slides/WhatsNext/WhatsNext';
 import ProfessionalExperience from '../Slides/ProfessionalExperience/ProfessionalExperience';
 import TheEnd from '../Slides/TheEnd/TheEnd';
+import Difficulties from '../Slides/Difficulties/Difficulties';
 
 const images = {
   formidagon: require('../assets/formidable-logo.svg'),
@@ -78,6 +79,7 @@ export default class Presentation extends React.Component {
         <MDM/>
         <IDETalend/>
         <Process/>
+        <Difficulties/>
         <ProjectManagement/>
         <ProfessionalExperience/>
         <WhatsNext/>

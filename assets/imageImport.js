@@ -5,7 +5,7 @@ export const images = {
   etlDiagram: require('./etlDiagram.png'),
   mdmDiagram: require('./mdmDiagram.png'),
   marquesAuchan: require('./marquesAuchan.png'),
-  ourTeam: require('./ourTeam.jpg')
+  ourTeam: require('./ourTeam.jpg'),
 };
 
 export const gifs = {
