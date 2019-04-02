@@ -1,11 +1,13 @@
 import React, {Component} from 'react';
 import { Deck, Heading, Image, List, ListItem, Slide, Text } from 'spectacle';
+import {images} from './../../assets/imageImport';
 
 
 export default class Talend extends Component {
   render() {
     return (
       <Slide align={"center flex-start"} bgColor="tertiary">
+        <Image src={images.logoTalend} width={250} className="leftCornerAuchan"/>
         <Heading size={4} textColor="primary" lineHeight={3} caps>Talend</Heading>
         <List textColor="primary" textAlign={"flex-end"}>
           <ListItem textSize={'3vw'}>Talend-Studio: ETL</ListItem>
