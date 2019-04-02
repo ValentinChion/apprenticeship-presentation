@@ -19,7 +19,13 @@
 .positionImageDiagram{
     position: absolute;
     bottom: 20%;
-    left: 23%;
+    left: 25%;
+}
+
+.positionImageDiagramMDM{
+    position: absolute;
+    bottom: 25%;
+    left: 12%;
 }
 
 .rightBottomCorner {
@@ -41,4 +47,10 @@
 
 .insideText{
     font-size: 20%;
+}
+
+.bigImpact {
+    height: 30vw;
+    width: auto;
+
 }

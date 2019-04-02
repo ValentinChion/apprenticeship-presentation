@@ -3,7 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="2b7835e7-4cf2-4aa7-823c-553c5c2b54be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/ActivitiesSopra/ActivitiesSopra.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/ActivitiesSopra/ActivitiesSopra.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/AuchanDPC/AuchanDPC.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/AuchanDPC/AuchanDPC.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/Difficulties/Difficulties.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/Difficulties/Difficulties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/ETL/ETL.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/ETL/ETL.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/KeyFiguresAuchan/KeyFigures.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/KeyFiguresAuchan/KeyFigures.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/KeyFiguresSopraSteria/KeyFigures.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/KeyFiguresSopraSteria/KeyFigures.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/MDM/MDM.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/MDM/MDM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/Objectives/Objectives.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/Objectives/Objectives.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/Process/Process.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/Process/Process.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/ProfessionalExperience/ProfessionalExperience.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/ProfessionalExperience/ProfessionalExperience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/ProjectManagement/ProjectManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/ProjectManagement/ProjectManagement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Slides/SopraTeam/SopraTeam.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/SopraTeam/SopraTeam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/Summary/Summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/Summary/Summary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/Talend/Talend.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/Talend/Talend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/WhatsNext/WhatsNext.js" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/WhatsNext/WhatsNext.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/presentation/Presentation.css" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/Presentation.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,18 +33,18 @@
     <session id="192810857">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="ESLintLanguageService" value="1" />
-          <entry key="TypeScriptServerServiceImpl" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,36 +54,37 @@
           <entry key="eslintrc" value="1" />
           <entry key="example" value="1" />
           <entry key="gif" value="1" />
-          <entry key="html" value="2" />
-          <entry key="js" value="18" />
+          <entry key="html" value="3" />
+          <entry key="ico" value="1" />
+          <entry key="js" value="47" />
           <entry key="md" value="1" />
-          <entry key="ts" value="2" />
+          <entry key="ts" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="2" />
-          <entry key="Image" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="2" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="18" />
+          <entry key="JavaScript" value="47" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="TypeScript" value="2" />
+          <entry key="TypeScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="151" />
+          <entry key="css" value="347" />
           <entry key="html" value="25" />
-          <entry key="js" value="1845" />
+          <entry key="js" value="2365" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="151" />
+          <entry key="CSS" value="347" />
           <entry key="HTML" value="25" />
-          <entry key="JavaScript" value="1845" />
+          <entry key="JavaScript" value="2365" />
         </counts>
       </usages-collector>
     </session>
@@ -77,22 +92,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/presentation/index.js">
+        <entry file="file://$PROJECT_DIR$/Slides/SopraTeam/SopraTeam.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
-              <folding>
-                <element signature="e#224#279#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Slides/AuchanDPC/AuchanDPC.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="18" selection-start-line="1" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="108">
+              <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -100,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Slides/Objectives/Objectives.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+            <state relative-caret-position="162">
+              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -112,17 +115,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Slides/ActivitiesSopra/ActivitiesSopra.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="33" selection-start-line="1" selection-end-line="1" selection-end-column="52" />
+            <state relative-caret-position="126">
+              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slides/Summary/Summary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Slides/SopraTeam/SopraTeam.js">
+        <entry file="file://$PROJECT_DIR$/Slides/WhatsNext/WhatsNext.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="180">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slides/ProjectManagement/ProjectManagement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slides/ProfessionalExperience/ProfessionalExperience.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -133,8 +175,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Slides/Talend/Talend.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="144">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -143,10 +185,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/presentation/Presentation.css">
+        <entry file="file://$PROJECT_DIR$/Slides/Difficulties/Difficulties.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="126">
+              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slides/ETL/ETL.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="60" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -183,16 +240,24 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/Slides/KeyFiguresAuchan/KeyFiguresAuchan.js" />
+        <option value="$PROJECT_DIR$/Slides/Activities/ActivitiesSopra.js" />
+        <option value="$PROJECT_DIR$/presentation/index.js" />
+        <option value="$PROJECT_DIR$/Slides/AuchanDPC/AuchanDPC.js" />
+        <option value="$PROJECT_DIR$/presentation/Presentation.css" />
+        <option value="$PROJECT_DIR$/Slides/MDM/MDM.js" />
         <option value="$PROJECT_DIR$/Slides/KeyFiguresAuchan/KeyFigures.js" />
         <option value="$PROJECT_DIR$/Slides/KeyFiguresSopraSteria/KeyFigures.js" />
-        <option value="$PROJECT_DIR$/Slides/Activities/ActivitiesSopra.js" />
-        <option value="$PROJECT_DIR$/Slides/AuchanDPC/AuchanDPC.js" />
-        <option value="$PROJECT_DIR$/Slides/ActivitiesSopra/ActivitiesSopra.js" />
-        <option value="$PROJECT_DIR$/Slides/Objectives/Objectives.js" />
-        <option value="$PROJECT_DIR$/presentation/index.js" />
-        <option value="$PROJECT_DIR$/Slides/Talend/Talend.js" />
-        <option value="$PROJECT_DIR$/presentation/Presentation.css" />
+        <option value="$PROJECT_DIR$/Slides/Process/Process.js" />
         <option value="$PROJECT_DIR$/Slides/SopraTeam/SopraTeam.js" />
+        <option value="$PROJECT_DIR$/Slides/ProjectManagement/ProjectManagement.js" />
+        <option value="$PROJECT_DIR$/Slides/ProfessionalExperience/ProfessionalExperience.js" />
+        <option value="$PROJECT_DIR$/Slides/Difficulties/Difficulties.js" />
+        <option value="$PROJECT_DIR$/Slides/ETL/ETL.js" />
+        <option value="$PROJECT_DIR$/Slides/Talend/Talend.js" />
+        <option value="$PROJECT_DIR$/Slides/Objectives/Objectives.js" />
+        <option value="$PROJECT_DIR$/Slides/ActivitiesSopra/ActivitiesSopra.js" />
+        <option value="$PROJECT_DIR$/Slides/Summary/Summary.js" />
+        <option value="$PROJECT_DIR$/Slides/WhatsNext/WhatsNext.js" />
       </list>
     </option>
   </component>
@@ -234,23 +299,19 @@
             <path>
               <item name="apprenticeship-presentation" type="b2602c69:ProjectViewProjectNode" />
               <item name="apprenticeship-presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apprenticeship-presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apprenticeship-presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="apprenticeship-presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apprenticeship-presentation" type="462c0819:PsiDirectoryNode" />
               <item name="Slides" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="apprenticeship-presentation" type="b2602c69:ProjectViewProjectNode" />
               <item name="apprenticeship-presentation" type="462c0819:PsiDirectoryNode" />
               <item name="Slides" type="462c0819:PsiDirectoryNode" />
-              <item name="SopraTeam" type="462c0819:PsiDirectoryNode" />
+              <item name="Summary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apprenticeship-presentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apprenticeship-presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="Slides" type="462c0819:PsiDirectoryNode" />
+              <item name="WhatsNext" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,6 +333,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -304,12 +366,13 @@
       <workItem from="1553010295517" duration="3870000" />
       <workItem from="1553066679166" duration="187000" />
       <workItem from="1553088534422" duration="5387000" />
-      <workItem from="1553497718386" duration="1235000" />
+      <workItem from="1553497718386" duration="1462000" />
+      <workItem from="1554194037298" duration="3857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10679000" />
+    <option name="totallyTimeSpent" value="14763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -383,24 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/spectacle/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="193" column="17" lean-forward="true" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -411,20 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Slides/KeyFiguresAuchan/KeyFigures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Slides/KeyFiguresSopraSteria/KeyFigures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="68" lean-forward="true" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/imageImport.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -432,61 +467,184 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/spectacle/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="188" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/AuchanDPC/AuchanDPC.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/presentation/Presentation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/KeyFiguresSopraSteria/KeyFigures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/KeyFiguresAuchan/KeyFigures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/IDETalend/IDETalend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/MDM/MDM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/Process/Process.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/kakashion.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/presentation/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+        <state relative-caret-position="513">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/SopraTeam/SopraTeam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/ProjectManagement/ProjectManagement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
           <folding>
-            <element signature="e#224#279#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/ProfessionalExperience/ProfessionalExperience.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/Difficulties/Difficulties.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/ETL/ETL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/Talend/Talend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Slides/Objectives/Objectives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        <state relative-caret-position="162">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Slides/AuchanDPC/AuchanDPC.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="18" selection-start-line="1" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Slides/ActivitiesSopra/ActivitiesSopra.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="33" selection-start-line="1" selection-end-line="1" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation/Presentation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Slides/Talend/Talend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="126">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Slides/SopraTeam/SopraTeam.js">
+    <entry file="file://$PROJECT_DIR$/Slides/Summary/Summary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="126">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slides/WhatsNext/WhatsNext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
